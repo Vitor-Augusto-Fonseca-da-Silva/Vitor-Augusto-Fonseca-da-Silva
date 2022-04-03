@@ -1,4 +1,4 @@
-### Olá, Me chamo Vitor Augusto. Estudante do curso Tecnico em Desenvolvimento de Sistemas
+### Olá, Me chamo Vitor Augusto. Estudante do curso Tecnico em Desenvolvimento de Sistemas pelo SENAI
 
 #### Informações Interessantes abaixo:
 
